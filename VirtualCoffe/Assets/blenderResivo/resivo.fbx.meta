@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: d53d4aeb19043744a8b0b24b135fe518
+timeCreated: 1524782275
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bacula2
+    100002: Mesa
+    100004: pared1
+    100006: pared2
+    100008: pared3
+    100010: piso
+    100012: //RootNode
+    100014: silla
+    100016: silla2
+    100018: soporte1
+    100020: soporte2
+    100022: soporte3
+    100024: soporte4
+    100026: soporteMesa
+    100028: techo
+    100030: tv
+    400000: bacula2
+    400002: Mesa
+    400004: pared1
+    400006: pared2
+    400008: pared3
+    400010: piso
+    400012: //RootNode
+    400014: silla
+    400016: silla2
+    400018: soporte1
+    400020: soporte2
+    400022: soporte3
+    400024: soporte4
+    400026: soporteMesa
+    400028: techo
+    400030: tv
+    2300000: bacula2
+    2300002: Mesa
+    2300004: pared1
+    2300006: pared2
+    2300008: pared3
+    2300010: piso
+    2300012: silla
+    2300014: silla2
+    2300016: soporte1
+    2300018: soporte2
+    2300020: soporte3
+    2300022: soporte4
+    2300024: soporteMesa
+    2300026: techo
+    2300028: tv
+    3300000: bacula2
+    3300002: Mesa
+    3300004: pared1
+    3300006: pared2
+    3300008: pared3
+    3300010: piso
+    3300012: silla
+    3300014: silla2
+    3300016: soporte1
+    3300018: soporte2
+    3300020: soporte3
+    3300022: soporte4
+    3300024: soporteMesa
+    3300026: techo
+    3300028: tv
+    4300000: soporte2
+    4300002: techo
+    4300004: pared3
+    4300006: Mesa
+    4300008: bacula2
+    4300010: piso
+    4300012: silla2
+    4300014: silla
+    4300016: tv
+    4300018: soporteMesa
+    4300020: pared1
+    4300022: pared2
+    4300024: soporte1
+    4300026: soporte3
+    4300028: soporte4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
