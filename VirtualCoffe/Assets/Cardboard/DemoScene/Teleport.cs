@@ -18,14 +18,20 @@ using System.Collections;
 [RequireComponent(typeof(Collider))]
 public class Teleport : MonoBehaviour {
   private Vector3 startingPosition;
-
+  private GameObject original;
   void Start() {
     startingPosition = transform.localPosition;
     SetGazedAt(false);
   }
 
   public void SetGazedAt(bool gazedAt) {
+    print ("entra2");
     GetComponent<Renderer>().material.color = gazedAt ? Color.green : Color.red;
+    float valor=Input.GetAxis("boton");
+      if(valor!=0){
+        print ("entra");
+        Destroy(original);
+      }
   }
 
   public void Reset() {

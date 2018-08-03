@@ -6,7 +6,7 @@ public class cambiarLab : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other) {
 		if(other.tag == "Player"){
-			SceneManager.LoadScene("labCalidades");
+			SceneManager.LoadScene("Progreso2");
 		}
 	}	
 }
